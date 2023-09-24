@@ -1,6 +1,6 @@
 {
   "name": "@kud/am-i-admin-cli",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "description": "A simple CLI tool to check if you're an admin on your macOS computer.",
   "main": "index.js",
   "bin": {
