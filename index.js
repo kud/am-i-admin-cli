@@ -49,7 +49,7 @@ const checkAdminStatus = async (rawOutput = false) => {
         console.log(
           `${chalk.green("✓")} ${chalk.bold(
             USER,
-          )}, you are an admin on this computer. 🎉`,
+          )}, you are an admin on this computer. 👑`,
         )
       }
     } else if (rawOutput) {
