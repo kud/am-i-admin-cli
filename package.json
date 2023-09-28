@@ -23,5 +23,16 @@
   "bugs": {
     "url": "https://github.com/kud/am-i-admin-cli/issues"
   },
-  "homepage": "https://github.com/kud/am-i-admin-cli#readme"
+  "homepage": "https://github.com/kud/am-i-admin-cli#readme",
+  "keywords": [
+    "admin",
+    "macOS",
+    "privileges",
+    "CLI",
+    "tools",
+    "user status",
+    "permissions",
+    "security",
+    "check admin"
+  ]
 }
