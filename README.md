@@ -55,7 +55,7 @@ Example:
 ✓ xxx, you are an admin on this computer. 👑
 ```
 
-For a simplified output that returns "true" if you're an admin and "false" otherwise, you can use the `--raw` parameter:
+For a simplified output that returns `true` if you're an admin and `false` otherwise, you can use the `--raw` parameter:
 
 ```
 am-i-admin --raw
